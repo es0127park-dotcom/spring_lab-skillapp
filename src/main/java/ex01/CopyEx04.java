@@ -40,13 +40,13 @@ class DetailDTO {
         // }
 
         // for문은 복잡! stream이 보기 편함! -> 그래서 stream 배울 것
-//        for (Reply reply : board.getReplies()) {
-//            // if (id < 3)
-//            if (reply.getId() < 3) {
-//                this.comments.add(reply.getComment());
-//            }
-//            // this.comments.add(reply.getComment());
-//        }
+        // for (Reply reply : board.getReplies()) {
+            // if (id < 3)
+            // if (reply.getId() < 3) {
+            //     this.comments.add(reply.getComment());
+            // }
+            // this.comments.add(reply.getComment());
+        // }
     }
 }
 
